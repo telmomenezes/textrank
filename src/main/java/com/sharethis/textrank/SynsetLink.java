@@ -32,6 +32,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 package com.sharethis.textrank;
 
+
 import net.didion.jwnl.data.POS;
 import net.didion.jwnl.data.IndexWord;
 import net.didion.jwnl.data.Pointer;
